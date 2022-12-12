@@ -42,6 +42,7 @@ $(document).ready(function () {
         $(".burger-menu").toggleClass("active");
         $(".nav").toggleClass("active");
         $(".menu").toggleClass("active");
+        $("body").toggleClass("hiden");
     })
 
 });
